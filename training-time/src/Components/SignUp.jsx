@@ -9,6 +9,7 @@ export default function SignUp() {
   const navigate = useNavigate();
 
   const handleSubmit = (e) => {
+    console.log("running");
     e.preventDefault();
 
     navigate("/home");
@@ -24,7 +25,7 @@ export default function SignUp() {
       </div>
 
       <div className="input-container">
-        <form onSubmit={handleSubmit}>
+        <form>
           <label className="label">NAME</label>
           <br />
           <input className="input" type="text" placeholder="Enter" />
@@ -48,7 +49,7 @@ export default function SignUp() {
             </div>
           </div>
           <div className="btn">
-            <button className="btn-submit" type="submit">
+            <button onClick={handleSubmit} className="btn-submit" type="submit">
               SUBMIT
             </button>
           </div>
@@ -58,6 +59,7 @@ export default function SignUp() {
       <div>
         <img className="ball-image" src={ball} alt="ball" />
       </div>
+      {/* <button onClick={handleSubmit}>add</button> */}
     </div>
   );
 }
