@@ -1,0 +1,90 @@
+.bg-image {
+  aspect-ratio: 16/9;
+  display: block;
+  width: 100vw;
+}
+.ball-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+}
+/* .logo-container {
+  position: absolute;
+  top: 15%;
+  left: 44.1%;
+} */
+
+.logo-image {
+  position: absolute;
+  top: 7vw;
+  left: 43vw;
+}
+.label {
+  font-family: "Avenir";
+  color: white;
+  margin-left: 5vw;
+  margin-top: 5vw;
+  margin-bottom: 2vw;
+}
+.input-container {
+  border: 2px solid gold;
+  position: absolute;
+  top: 17vw;
+  left: 27vw;
+  width: 45vw;
+  height: 18vw;
+  padding-top: 4vw;
+  padding-bottom: 5vw;
+}
+
+.input {
+  width: 36vw;
+  height: 3vw;
+  border: none;
+  margin-left: 5vw;
+  margin-right: 4vw;
+  margin-top: 1.2vw;
+  font-size: 1em;
+  background-color: transparent;
+  margin-bottom: 0.5vw;
+}
+.btn-submit {
+  padding-left: 3em;
+  padding-right: 3em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-size: 1.5em;
+  border-radius: 0.5em;
+  background-color: #dcb051;
+  justify-content: center;
+  position: absolute;
+  top: 25vw;
+  border: none;
+  color: white;
+}
+.contact-email-div {
+  display: flex;
+  justify-content: space-between;
+  gap: 5vw;
+  width: 100%;
+
+  /* justify-content: center; */
+}
+.contact-div {
+  width: 2vw;
+  margin-right: 5em;
+}
+.email-div {
+  width: 20vw;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
+.hr-input {
+  position: absolute;
+  top: 0;
+  left: 0;
+}

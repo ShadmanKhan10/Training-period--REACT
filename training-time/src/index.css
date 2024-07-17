@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+@font-face {
+  font-family: "Avenir";
+  src: url("./assets/Avenir-Regular.woff") format("woff2"),
+    url("./assets/Avenir-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="238.125" height="42" viewBox="0 0 238.125 42">
+  <g id="download" transform="translate(-934.875 -923)">
+    <g id="download-2" data-name="download" transform="translate(918.875 927.867)">
+      <g id="Group_872" data-name="Group 872" transform="translate(23.058)">
+        <g id="Group_871" data-name="Group 871">
+          <path id="Path_1818" data-name="Path 1818" d="M144.04,14.707a1.006,1.006,0,0,0-.918-.591h-4.033V1.008A1.009,1.009,0,0,0,138.081,0h-4.033a1.009,1.009,0,0,0-1.008,1.008V14.116h-4.033a1.008,1.008,0,0,0-.758,1.672l7.058,8.066a1.006,1.006,0,0,0,1.516,0l7.058-8.066A1,1,0,0,0,144.04,14.707Z" transform="translate(-127.998)" fill="#fcd775"/>
+        </g>
+      </g>
+      <g id="Group_874" data-name="Group 874" transform="translate(16 22.182)">
+        <g id="Group_873" data-name="Group 873" transform="translate(0)">
+          <path id="Path_1819" data-name="Path 1819" d="M42.216,352v6.05H20.033V352H16v8.066a2.016,2.016,0,0,0,2.017,2.017H44.232a2.015,2.015,0,0,0,2.017-2.017V352Z" transform="translate(-16 -352)" fill="#fcd775"/>
+        </g>
+      </g>
+    </g>
+    <text id="Download-3" data-name="Download" transform="translate(1080 955)" fill="#fcd775" font-size="36" font-family="PTSans-Bold, PT Sans" font-weight="700"><tspan x="-92" y="0">DOWNLOAD</tspan></text>
+  </g>
+</svg>

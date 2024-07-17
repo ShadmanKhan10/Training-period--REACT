@@ -1,0 +1,21 @@
+.input-container2 {
+  position: absolute;
+  top: 19vw;
+  left: 38.5vw;
+  width: 20vw;
+  height: 20vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+
+  background-color: white;
+  border-radius: 2vw;
+}
+.download-btn {
+  position: absolute;
+  top: 42vw;
+  left: 43.7vw;
+}

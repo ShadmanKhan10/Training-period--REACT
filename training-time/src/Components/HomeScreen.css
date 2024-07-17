@@ -1,0 +1,43 @@
+.text {
+  color: black;
+  text-align: center;
+  font-family: "Avenir";
+  padding-bottom: 2vw;
+}
+/* .input-container1 {
+  position: absolute;
+  top: 22vw;
+  left: 27vw;
+  width: 45vw;
+  height: 10vw;
+  padding-top: 4vw;
+  padding-bottom: 5vw;
+  background-color: #dcb051;
+  border-radius: 2vw;
+  font-size: 2vw;
+  padding: 4vw;
+  display: flex;
+  justify-content: center;
+  object-fit: contain;
+} */
+
+.text-containing-div {
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+}
+.input-container1 {
+  position: absolute;
+  top: 22vw;
+  left: 29vw;
+  width: 40vw;
+  height: 20vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+
+  background-color: #dcb051;
+  border-radius: 2vw;
+}
