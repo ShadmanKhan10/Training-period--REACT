@@ -11,9 +11,9 @@
 //       <div>
 //         <img className="bg-image" src={background} alt="background" />
 //       </div>
-//       <div className="logo-container2">
+//       <div className="logo-container">
 //         <img className="logo-image" src={logo} alt="logo" />
-//         <div className="input-container2">
+//         <div className="input-container">
 //           <div className="qr-containing-div"></div>
 //           <img
 //             src="https://upload.wikimedia.org/wikipedia/commons/d/d0/QR_code_for_mobile_English_Wikipedia.svg"
